@@ -12,9 +12,7 @@
 
 
 # Home page
-![CollegePhoto](https://github.com/ANMOLYADAV1402/ResumePortalForCampus/assets/81957738/f17416ce-c9d8-4855-bcac-da39f65063ed)
-
-
+![Screenshot 2024-01-26 143813](https://github.com/GitArya27/Resume_Portal/assets/102437896/c4fbde8a-e232-40c9-941c-681d5da9c375)
 </br>
 </br>
 
@@ -29,7 +27,8 @@
 # User-Dashboard 
 ## Effortlessly upload and revise resumes to maximize your opportunities effortlessly.
 
-![DashBoard](https://github.com/ANMOLYADAV1402/ResumePortalForCampus/assets/81957738/7086bbda-16f4-43f1-963b-9b1b04054b92)
+![Screenshot 2024-01-26 143855](https://github.com/GitArya27/Resume_Portal/assets/102437896/add0979b-9e72-4db0-8ddb-85780c85319f)
+
 
 
 </br>
@@ -38,7 +37,8 @@
 
 # User-Notification Section
 ## Users stay connected through timely notifications from the admin, ensuring seamless communication of career opportunities and updates on student shortlisting and subsequent processes.
-![p1](https://github.com/ANMOLYADAV1402/ResumePortalForCampus/assets/81957738/61a5c3e4-fb86-4dfb-8dcf-7efd37e6d936)
+![Screenshot 2024-01-26 143910](https://github.com/GitArya27/Resume_Portal/assets/102437896/9a5fde01-54fe-45d1-aa6a-fc0f95e65626)
+
 
 </br>
 </br>
@@ -47,7 +47,8 @@
 ## The database owner creates the admin role by modifying permissions.
 ## The Admin Dashboard allows administrators to view everyone's resumes for the subsequent stages of the placement process.
 ## Recruiters can utilize it to view and shortlist students.
-![AdminDashboard](https://github.com/ANMOLYADAV1402/ResumePortalForCampus/assets/81957738/a6a72072-4706-4569-8f0b-c33da172914d)
+![Screenshot 2024-01-26 143922](https://github.com/GitArya27/Resume_Portal/assets/102437896/38da9a2c-b44c-4729-8f4d-8bdcd179e7ac)
+
 
 </br>
 </br>
@@ -55,15 +56,17 @@
 # Admin Notification Panel
 ## The platform empowers the admin to send notifications to all students and manage updates, including the ability to delete them.
 ## Employed to communicate essential updates concerning the company, processes, and the selected list.
-![adminnotificationpanel](https://github.com/ANMOLYADAV1402/ResumePortalForCampus/assets/81957738/783d7d97-f2e9-4212-8f54-14114703a9e1)
+![Screenshot 2024-01-26 143937](https://github.com/GitArya27/Resume_Portal/assets/102437896/512fbc0a-db1c-43a0-91a2-75cc0b39b1f6)
+
 
 </br>
 </br>
 
 # Mobile View-
-![mobile](https://github.com/ANMOLYADAV1402/ResumePortalForCampus/assets/81957738/7dfec581-1661-49f0-8e5f-05254e81e127)
-![mobile2](https://github.com/ANMOLYADAV1402/ResumePortalForCampus/assets/81957738/f7077825-012a-480d-85ef-f317c3b34ca9)
 
+![Screenshot 2024-01-26 143954](https://github.com/GitArya27/Resume_Portal/assets/102437896/c9fe11cd-0a4c-4d00-881b-b2f3d304c6ef)
+
+![Screenshot 2024-01-26 144005](https://github.com/GitArya27/Resume_Portal/assets/102437896/1a0b675d-29d2-4def-842c-9fb74e19d6df)
 
 
 # Thank You !
